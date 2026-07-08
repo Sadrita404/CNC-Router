@@ -45,6 +45,13 @@ Use case of this project can be many. The main thing that we can do with this CN
 
 * 700 x 500 + working are for the CNC milling
 
+## Wiring 
+
+<img width="3840" height="2160" alt="wiring" src="https://github.com/user-attachments/assets/95546cd3-6830-4d7b-8fd2-4a6ed6e38f18" />
+
+<img width="3840" height="2160" alt="wiring_2" src="https://github.com/user-attachments/assets/ec2f16c5-40c8-4aed-a1b9-be4268ea91ca" />
+
+
 ## Setup
 
 Once the machine is assembled and wired, firmware needs to be installed so that it can move.
