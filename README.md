@@ -23,7 +23,7 @@
 
 ## Overview
 
-It's an how great CNC router made fully from scratch that uses linear rails , extrusion rods and much more..
+It's an hobby grade CNC router made fully from scratch that uses linear rails , extrusion rods and much more..
 
 ### Why I chose this project?
 Behind choosing this project was when I make any project, sometimes mostly, I get all the parts 3-D printed, but for some specific project 3-D printed parts are two week for them, and then I need to done it. CNC milling and the cost of CNC milling is too much, so I thought one day. Why not I just made one CNC router for myself that I can be used to build my projects, much more efficiently.
