@@ -101,6 +101,9 @@ If the console shows `Grbl 1.1h`, the chip is connected.
 
 ## Fusion Renders 
 
+<div align="center">
+
+
 <img width="2940" height="1272" alt="Render 1" src="https://github.com/user-attachments/assets/1ef3da53-ea16-4466-8b3b-5830f38c0289" />
 
 <img width="2940" height="1272" alt="Render 2" src="https://github.com/user-attachments/assets/1c019c9f-1f8e-4d0a-8b9e-b107a7cfd616" />
@@ -108,3 +111,45 @@ If the console shows `Grbl 1.1h`, the chip is connected.
 <img width="2940" height="1272" alt="Render 3" src="https://github.com/user-attachments/assets/ecfb869e-7967-4c35-bf26-b499b521f1c6" />
 
 <img width="2940" height="1272" alt="Render 4" src="https://github.com/user-attachments/assets/cd18caa0-eb5b-4ef6-b84e-7323e4185d5d" />
+
+</div>
+
+
+
+<div align="center">
+  <h2> Bill of Materials</h2>
+</div>
+
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+| --- | --- | --- | --- | --- | --- |
+| 750 mm 20X20 4T Slot Aluminium Extrusion | For the base | 8 | 30.28 | [Link](https://robu.in/product/easymech-20x20-t-slot-aluminium-extrusion-profile-750-mm/) | Robu |
+| 20X40 6T Slot Aluminium Extrusion Profile - 1000 mm | For the Frame | 5 | 49.10 | [Link](https://robu.in/product/easymech-20x40-6t-slot-aluminium-extrusion-profile-1000-mm/) | Robu |
+| R28S open loop stepper driver | For the Stepper Motor | 4 | 66.87 | [Link](https://robu.in/product/rtelligent-r28s-open-loop-stepper-driver/) | Robu |
+| CNC Spindle | The main spindle | 1 | 47.80 | [Link](https://robokits.co.in/automation-laser-engraver-cnc/spindle-motor-for-cnc-with-drive/spindle-motor-for-cnc/cnc-spindle-300w-er11-air-cooled-48v-12000rpm-for-engraving) | Robokits India |
+| CNC Motor Holder | For the Spindle Motor to mount | 1 | 8.62 | [Link](https://robokits.co.in/automation-control-cnc/spindle-motor-for-cnc-with-drive/spindle-accessories/spindle-mounting-fixture-52mm?cPath=75_588_240&) | Robokits India |
+| Arduino Uno | The main Board | 1 | 2.39 | [Link](https://robu.in/product/uno-r3-ch340g-atmega328p-development-board-with-micro-usb/?gad_source=1&gad_campaignid=17413441824&gbraid=0AAAAADvLFWevEAvEQwKw27bFxWR9cAc5i&gclid=CjwKCAjwx7LSBhB3EiwAjcodxFHEs0hCrXtPZ1XHbmCuMepZeeHJP1Om0jhwoiHxpt_Z0cozlsj-jxoC234QAvD_BwE) | Robu |
+| CNC Shield | For the controller board | 1 | 2.94 | [Link](https://www.amazon.in/3D-Innovations-CHPSS656-Engraver-Expansion/dp/B07FZ9QCS8) | Amazon |
+| M5 screw (assorted) | For fixing the frame | 1 | 3.89 | [Link](https://onlyscrews.in/products/m5-allen-socket-head-ss304-assorted-box) | Onlyscrews |
+| Plastic Spacer Assorted Pack | For fixing the frame | 1 | 1.68 | [Link](https://onlyscrews.in/products/cylindrical-plastic-spacer-assorted-pack-for-m3-screws) | Onlyscrews |
+| M5 Profile Nuts | For fixing the 2020 extrusion rod | 20 | 1.89 | [Link](https://onlyscrews.in/products/m4-profile-nuts-mild-steel-with-nickel-plating-for-3030-series-t-nut-hammer-nut-1) | Onlyscrews |
+| MGN15H Linear Guide Rail(0.5M) | For the Slider (x - axis ) | 2 | 37.18 | [Link](https://robu.in/product/mgn15h-linear-guide-rail-0-5m/) | Robu |
+| MGN15H Linear Guide Rail(1M) | For the Slider (y - axis ) | 2 | 71.29 | [Link](https://robu.in/product/mgn15h-linear-guide-rail-1m/) | Robu |
+| Lead Screw with Nut | For the slider movement | 3 | 14.92 | [Link](https://robu.in/product/1000mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-with-copper-nut/?gad_source=1&gad_campaignid=17427803012&gbraid=0AAAAADvLFWdvvPCnj4K00DJ0D1UDI08XO&gclid=CjwKCAjwx7LSBhB3EiwAjcodxPuWO3kQp64Z6F9kBCEJvr_M9hMkw04GrOBdeUCVnx6UO7tR3zlqQhoCDSMQAvD_BwE) | Robu |
+| Shaft Decoupler | For the Stepper Motor | 3 | 2.21 | [Link](https://robu.in/product/flexible-coupling-od20mm-x-l25mm-bore-5-x-10mm/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWfMFWeu94WIlXghALKJyNmBH&gclid=CjwKCAjwx7LSBhB3EiwAjcodxASko7ZHBoNPVtmtPiqwFhXh3Pay0BBybJEcBnV1ZcIq0zmgwAueNhoC8UwQAvD_BwE) | Robu |
+| E Series Nema 17 Bipolar Stepper Motor | For the Movement of the CNC machine | 3 | 43.59 | [Link](https://robu.in/product/stepperonline-e-series-nema-17-stepper-motor-60ncm/?gad_source=1&gad_campaignid=20381096599&gbraid=0AAAAADvLFWeuXVTYuuEkn4sVA1fadRftY&gclid=CjwKCAjwx7LSBhB3EiwAjcodxEsGoBv0JQUBqkdEJeyM0MMi9jjAFodzb8r9-7U_tUQJfgvGtaZulhoCWU0QAvD_BwE) | Robu |
+| Wooden board | For the enclosure | 1 | 0 | - | Self Sourced |
+| Acrylic Sheet | For the enclosure | 2 | 4.20 | [Link](https://www.amazon.in/Clear-Acrylic-Plexiglass-Projects-Cricut/dp/B0CQYQFKLP/ref=sr_1_6?dib=eyJ2IjoiMSJ9.YOpDaCGqQFCpyj6x0W5PyxF-sIoSrpvmxS-C-w0I1y2jjqQY5au2cLTRsFCvx8dLvyK2UYDR5jwcQy3ER3C_p3Cx8eqwB1Go8a_xpbVnVpoi8JDIqZJXcHQzpeJaZHeBSpd4R2a8yR_juIgMTtNn18FDsQ_l8pNxpQsO6Xb7XCrMF_DfBDJ2PfslDTFa6KTOM8gQjRfdooVTxcTYnf5zXOaDfBJWFYnNlnOywGeuaRRYJEkgbFWKKh4RPRGrrEX1UmUxoxOKBX4F4ELU_UptXcllk4ETioJSPsb4923Jl18.a6wHjT8N-HCyCguenQmvQk8YGLLCKVbvFnWgvd9GEEQ&dib_tag=se&keywords=acrylic%2Bsheet%2B2ft%2Bx%2B4ft&qid=1783486725&sr=8-6&th=1) | Amazon |
+| 3d Print | For the 3d Printed Parts | 1 | 0 | [Link](https://printlegion.hackclub.com/) | #printing-legion |
+| Shipping |  |  | 4 |  |  |
+| **Total** |  |  | **392.85** |  |  |
+| **Round Off Total** |  |  | **395** |  |  |
+
+I have provided the links for the parts I will be self-sourcing, so that if readers want to recreate this, they will be able to get all the parts.This is also updated on the [Bom.csv](/Bom.csv)
+
+
+## Copyright and License
+Copyright (c) 2026 Sadrita Neogi. All rights reserved.
+
+All files are licensed under the MIT license. For more information, see the [LICENSE](LICENSE).
+
+Project Under Hack Club
