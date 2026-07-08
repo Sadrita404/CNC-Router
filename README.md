@@ -68,16 +68,6 @@ GRBL is the firmware which is going to run on the Arduino and interpret the G-co
 6. **Flash the sketch** through `Sketch` -> `Upload`.
 
 ### For more about the CNC shield - [DOC Link](https://mikroshop.ch/pdf/CNC-Shield-Guide.pdf)
----
-
-### Connecting the Arduino to LaserGRBL
-Connecting the Arduino to LaserGRBL (through which I will control the laser) is fairly simple.
-
-1. **Download LaserGRBL** from their website: https://lasergrbl.com and install it.
-2. **Connect the Arduino to the computer via USB**.
-3. **Choose the correct port** and select **"115200" baud rate**, then click **Connect**.  
-
-If the console shows `Grbl 1.1h`, the chip is connected.
 
 ##  Now for sending the G- Code to the Arduino I will use universal Gcode Sender 
 
