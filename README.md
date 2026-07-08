@@ -136,7 +136,6 @@ GRBL is the firmware which is going to run on the Arduino and interpret the G-co
 | **Total** |  |  | **392.85** |  |  |
 | **Round Off Total** |  |  | **395** |  |  |
 
-I have provided the links for the parts I will be self-sourcing, so that if readers want to recreate this, they will be able to get all the parts.This is also updated on the [Bom.csv](/Bom.csv)
 
 
 ## Copyright and License
